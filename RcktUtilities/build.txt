@@ -1,0 +1,3 @@
+displayName = Rckt.Utilities
+author = Rckt.Mn
+version = 0.1
